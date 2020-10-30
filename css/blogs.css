@@ -1,0 +1,8 @@
+li {
+    list-style-type: none;
+}
+
+#one {
+    font-size: 20px;
+    padding-right: 60px;
+}
